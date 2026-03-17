@@ -12,7 +12,7 @@
 ## Best Model
 Multinomial Naive Bayes — Precision of 1.0 with 97% accuracy
 
-## What I Learned (Different From Previous Projects)
+## What I Learned
 - In spam detection, we consider precision over accuracy because a false
   positive (legitimate email flagged as spam) is far more costly than a
   false negative (spam reaching inbox).
